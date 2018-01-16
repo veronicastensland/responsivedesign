@@ -13,7 +13,7 @@
     nav {
         margin: 13px;
         display: grid;
-        grid-template-rows: min-content min-content auto;
+        grid-template-rows: min-content min-content min-content;
     }
     nav .logo {
         width: 100%;
